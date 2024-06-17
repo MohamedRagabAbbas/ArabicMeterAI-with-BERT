@@ -44,10 +44,11 @@ Contributions are welcome! Here are some ways you can contribute:
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+\iffalse
 ## Authors
 - **Mohamed Abbas**   
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/mohamed-ragab-773b86244/))
+\fi
 
 ## Acknowledgments
 - Thanks to the developers of the `transformers` library and the creators of the `asafaya/bert-base-arabic` model for providing the tools necessary to undertake this project.
