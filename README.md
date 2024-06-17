@@ -12,7 +12,7 @@ This repository contains a detailed Jupyter Notebook (`bert-awzan.ipynb`) which 
 ## Installation
 To replicate the setup and run the notebook on your own machine, follow these steps:
 ```bash
-git clone https://github.com/<your-username>/<your-repository-name>.git
+git clone https://MohamedRagabAbbas/ArabicMeterAI-with-BERT.git
 cd <your-repository-name>
 pip install -r requirements.txt
 ```
@@ -47,7 +47,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors
 - **Mohamed Abbas**   
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-id)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/mohamed-ragab-773b86244/))
 
 ## Acknowledgments
 - Thanks to the developers of the `transformers` library and the creators of the `asafaya/bert-base-arabic` model for providing the tools necessary to undertake this project.
