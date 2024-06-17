@@ -12,8 +12,8 @@ This repository contains a detailed Jupyter Notebook (`bert-awzan.ipynb`) which 
 ## Installation
 To replicate the setup and run the notebook on your own machine, follow these steps:
 ```bash
-git clone https://MohamedRagabAbbas/ArabicMeterAI-with-BERT.git
-cd <your-repository-name>
+git clone https://github.com/MohamedRagabAbbas/ArabicMeterAI-with-BERT.git
+cd ArabicMeterAI-with-BERT
 pip install -r requirements.txt
 ```
 
